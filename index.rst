@@ -8,4 +8,4 @@ Il capitolo 1 contiene..
 
 .. toctree::
 
-  _docs/capitolo1.rst
+  _docs2/capitolo1.rst
